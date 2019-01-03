@@ -1,0 +1,10 @@
+.idea
+env/
+*.pyc
+.grablib.lock
+.coverage
+coverage.xml
+/mediafiles
+/staticfiles
+.pytest_cache/
+
